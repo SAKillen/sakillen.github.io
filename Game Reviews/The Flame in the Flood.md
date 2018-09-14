@@ -1,8 +1,8 @@
-#Game Review
+# Game Review
 
-##Details
+## Details
 Game Title: The Flame in the Flood
-##Summary
+## Summary
 The Flame in the Flood is a game about surviving a post-apocalyptic land ravaged by flooding.
 The player character Scout and her dog Aesop travel by navigating their raft down a river.
 Along the way, the player must visit the islands dotted along the river to scavenge for supplies.
@@ -12,7 +12,7 @@ In addition to finding food, water, and places to sleep, a variety of tools and 
 Neglecting any of Scout's needs can lead to her death.
 When Scout dies, the player must start from the beginning, though some of Scout's inventory can be given to Aesop and saved for the next playthrough.
 In addition to the normal mode, the game offers a harder difficulty and an endless mode.
-##Final Thoughts
+## Final Thoughts
 Even on its base difficulty, the game feels harder than it should be.
 Food and water are very scarce, and most types of food staves off very little hunger.
 Survival tools are also hard to acquire, as certain items necessary for hunting as well as defense from wildlife require highly upgraded versions of other tools.
